@@ -28,7 +28,7 @@ public class BirdController : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void Update () {
         _BirdMoveMent();
        
 	}
@@ -71,7 +71,7 @@ public class BirdController : MonoBehaviour {
                 flag = 1;
                 Destroy(spawner);
                 aus.PlayOneShot(deadClip);
-                anim.SetTrigger("Died");
+                anim.Play("Died");
             }
             if(GamePlayController.instance != null)
             {

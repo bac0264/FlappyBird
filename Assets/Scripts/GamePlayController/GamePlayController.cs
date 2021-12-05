@@ -13,7 +13,7 @@ public class GamePlayController : MonoBehaviour {
 	 //Use this for initialization
 	void Awake () {
         _makeInstance();
-        Time.timeScale = 0;
+        //Time.timeScale = 0;
 	}
 
     public void _makeInstance() {
