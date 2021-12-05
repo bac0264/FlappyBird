@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_FlappyBird.1541812624.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\Desktop\FlappyBird" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+          </e>
+          <e p="AsyncAwaitUtil" t="Include">
+            <e p="Source" t="Include">
+              <e p="Awaiters.cs" t="Include" />
+              <e p="AwaitExtensions.cs" t="Include" />
+              <e p="IEnumeratorAwaitExtensions.cs" t="Include" />
+              <e p="Internal" t="Include">
+                <e p="AsyncCoroutineRunner.cs" t="Include" />
+                <e p="SyncContextUtil.cs" t="Include" />
+              </e>
+              <e p="TaskExtensions.cs" t="Include" />
+              <e p="WaitForBackgroundThread.cs" t="Include" />
+              <e p="WaitForUpdate.cs" t="Include" />
+            </e>
+            <e p="Tests" t="Include">
+              <e p="AsyncUtilTests.cs" t="Include" />
+              <e p="Util" t="Include">
+                <e p="TestButtonHandler.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="JsonDotNet" t="Include">
+            <e p="link.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BGScaler" t="Include">
+            <e p="BGScaler.cs" t="Include" />
+          </e>
+          <e p="BirdController" t="Include">
+            <e p="BirdController.cs" t="Include" />
+          </e>
+          <e p="GameManager" t="Include">
+            <e p="_GameManager.cs" t="Include" />
+          </e>
+          <e p="GamePlayController" t="Include">
+            <e p="GamePlayController.cs" t="Include" />
+          </e>
+          <e p="MenuController" t="Include">
+            <e p="PlayButton.cs" t="Include" />
+          </e>
+          <e p="PipeController" t="Include">
+            <e p="PipeHolder.cs" t="Include" />
+          </e>
+          <e p="SpawnerPipeController" t="Include">
+            <e p="SpawnerPipe.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Web3Unity" t="Include">
+          <e p="Prefabs" t="Include">
+            <e p="ERC1155" t="Include">
+              <e p="ImportNFTTextureExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Library" t="Include">
+              <e p="ERC1155.cs" t="Include" />
+              <e p="ERC20.cs" t="Include" />
+              <e p="ERC721.cs" t="Include" />
+              <e p="EVM.cs" t="Include" />
+              <e p="WebGL" t="Include">
+                <e p="Web3GL.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="ERC1155" t="Include">
+                <e p="ERC1155BalanceOfBatchExample.cs" t="Include" />
+                <e p="ERC1155BalanceOfExample.cs" t="Include" />
+                <e p="ERC1155URIExample.cs" t="Include" />
+              </e>
+              <e p="ERC20" t="Include">
+                <e p="ERC20BalanceOfExample.cs" t="Include" />
+                <e p="ERC20DecimalsExample.cs" t="Include" />
+                <e p="ERC20NameExample.cs" t="Include" />
+                <e p="ERC20SymbolExample.cs" t="Include" />
+                <e p="ERC20TotalSupplyExample.cs" t="Include" />
+              </e>
+              <e p="ERC721" t="Include">
+                <e p="ERC721BalanceOfExample.cs" t="Include" />
+                <e p="ERC721OwnerOfBatchExample.cs" t="Include" />
+                <e p="ERC721OwnerOfExample.cs" t="Include" />
+                <e p="ERC721URIExample.cs" t="Include" />
+              </e>
+              <e p="EVM" t="Include">
+                <e p="BlockNumberExample.cs" t="Include" />
+                <e p="CreateContractDataExample.cs" t="Include" />
+                <e p="CustomCallExample.cs" t="Include" />
+                <e p="CustomRPCExample.cs" t="Include" />
+                <e p="EthBalanceOfExample.cs" t="Include" />
+                <e p="NonceExample.cs" t="Include" />
+                <e p="TxStatus.cs" t="Include" />
+                <e p="VerifyExample.cs" t="Include" />
+              </e>
+              <e p="WebGL" t="Include">
+                <e p="WebGLSendContractExample.cs" t="Include" />
+                <e p="WebGLSendTransactionExample.cs" t="Include" />
+                <e p="WebGLSignMessageExample.cs" t="Include" />
+                <e p="WebGLSignOut.cs" t="Include" />
+                <e p="WebGLTransfer1155.cs" t="Include" />
+                <e p="WebGLTransfer20.cs" t="Include" />
+                <e p="WebGLTransfer721.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scenes" t="Include">
+              <e p="WebLogin.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="WebGLTemplates" t="Include">
+          <e p="Web3GL-2019" t="Include">
+            <e p="robots.txt" t="Include" />
+            <e p="static" t="Include">
+              <e p="js" t="Include">
+                <e p="13.55737ecb.chunk.js.LICENSE.txt" t="Include" />
+                <e p="22.525f7c6b.chunk.js.LICENSE.txt" t="Include" />
+                <e p="23.94d12b69.chunk.js.LICENSE.txt" t="Include" />
+                <e p="24.b7e14fc4.chunk.js.LICENSE.txt" t="Include" />
+                <e p="25.27515676.chunk.js.LICENSE.txt" t="Include" />
+                <e p="26.29c08b23.chunk.js.LICENSE.txt" t="Include" />
+                <e p="27.e8fc63b9.chunk.js.LICENSE.txt" t="Include" />
+                <e p="31.43122843.chunk.js.LICENSE.txt" t="Include" />
+                <e p="36.fb537949.chunk.js.LICENSE.txt" t="Include" />
+                <e p="7.81b2580d.chunk.js.LICENSE.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Web3GL-2020" t="Include">
+            <e p="robots.txt" t="Include" />
+            <e p="static" t="Include">
+              <e p="js" t="Include">
+                <e p="13.55737ecb.chunk.js.LICENSE.txt" t="Include" />
+                <e p="22.525f7c6b.chunk.js.LICENSE.txt" t="Include" />
+                <e p="23.94d12b69.chunk.js.LICENSE.txt" t="Include" />
+                <e p="24.b7e14fc4.chunk.js.LICENSE.txt" t="Include" />
+                <e p="25.27515676.chunk.js.LICENSE.txt" t="Include" />
+                <e p="26.29c08b23.chunk.js.LICENSE.txt" t="Include" />
+                <e p="27.e8fc63b9.chunk.js.LICENSE.txt" t="Include" />
+                <e p="31.43122843.chunk.js.LICENSE.txt" t="Include" />
+                <e p="36.fb537949.chunk.js.LICENSE.txt" t="Include" />
+                <e p="7.81b2580d.chunk.js.LICENSE.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="FlappyBird.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
