@@ -1,30 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="948e8e4a-4c79-4d1e-b41b-9749320f4d0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Flapping Red/Died.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Flapping Red/Died.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Flapping Red/Flap.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Flapping Red/Flap.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Flapping Red/Flapping.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Flapping Red/Flapping.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pipe Holder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Pipe Holder.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GamePlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GamePlay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BirdController/BirdController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BirdController/BirdController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GamePlayController/GamePlayController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GamePlayController/GamePlayController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SpriteAtlasDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SpriteAtlasDatabase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/EVM/EthBalanceOfExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/EVM/EthBalanceOfExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WebGLTemplates/Web3GL-2020/network.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WebGLTemplates/Web3GL-2020/network.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-528af641d71c50e4293f5c7d04055ebd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnityPackageManager/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +40,58 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC1155/ERC1155BalanceOfBatchExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2AC4227-D2C3-4EAF-8663-2B57F42AF586/79/567e15b0/UnityWebRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/EVM/EthBalanceOfExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NftScript/UIModuleLogin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC20/ERC20TotalSupplyExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC20/ERC20DecimalsExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC20/ERC20NameExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC20/ERC20SymbolExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/31D305FA-AF06-4CEE-A3E8-553B56953C7D/25/0dfd81fc/BigInteger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC20/ERC20BalanceOfExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Prefabs/ERC1155/ImportNFTTextureExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/WebGL/WebGLSignMessageExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/WebGL/WebGLSendTransactionExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NftScript/WAM/WAM.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Scenes/WebLogin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/WebGL/WebGLSendContractExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlayController/GamePlayController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Library/EVM.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnerPipeController/SpawnerPipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Library/ERC1155.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC721/ERC721OwnerOfBatchExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager/_GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuController/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PipeController/PipeHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC721/ERC721URIExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BirdController/BirdController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC721/ERC721BalanceOfExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Library/ERC20.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Library/ERC721.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NftScript/WAM/WAMBalance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC1155/ERC1155URIExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NftScript/WAM/WamMint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC721/ERC721OwnerOfExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NftScript/UIMenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Library/WebGL/Web3GL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC1155/ERC1155BalanceOfExample.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlayController/GamePlayController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BirdController/BirdController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NftScript/GetBalanceContract.cs" />
+        <option value="$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC1155/ERC1155BalanceOfExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NftScript/UIMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NftScript/UIModuleLogin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/ERC721/ERC721BalanceOfExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/EVM/EthBalanceOfExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Web3Unity/Scripts/Prefabs/WebGL/WebGLSendTransactionExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NftScript/WAM/WAM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NftScript/WAM/WamMint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NftScript/WAM/WAMBalance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlayController/GamePlayController.cs" />
       </list>
     </option>
   </component>
@@ -93,6 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638522353641</updated>
       <workItem from="1638522367701" duration="5481000" />
+      <workItem from="1638757036844" duration="35658000" />
     </task>
     <servers />
   </component>
@@ -101,13 +146,38 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1638523596701">
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1638842758858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1638842758858" />
+    <state x="418" y="73" width="1398" height="1027" maximized="true" key="dock-window-1" timestamp="1638774964492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="73" width="1398" height="1027" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1638774964492" />
+    <state x="2541" y="255" width="678" height="582" key="find.popup" timestamp="1638847602338">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1638523596701" />
+    <state x="2541" y="255" width="678" height="582" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1638845869188" />
+    <state x="2541" y="255" width="678" height="582" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1638847602338" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1638852498699">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1638842703183" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1638852498699" />
   </component>
 </project>
