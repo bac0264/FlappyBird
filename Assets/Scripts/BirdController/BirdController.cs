@@ -89,5 +89,4 @@ public class BirdController : MonoBehaviour {
             aus.PlayOneShot(pingClip);
         }
     }
-	
 }
