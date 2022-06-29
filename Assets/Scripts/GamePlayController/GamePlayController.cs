@@ -10,8 +10,6 @@ public class GamePlayController : MonoBehaviour {
     private Text score, bestScore, yourScore;
     [SerializeField]
     private GameObject panel;
-
-    private int _score;
 	 //Use this for initialization
 	void Awake () {
         _makeInstance();
@@ -27,7 +25,6 @@ public class GamePlayController : MonoBehaviour {
 	}
     public void _setScore(int _score) {
         score.text = _score.ToString();
-        this._score = _score;
     }
     public void _setPanel(int _score) {
         panel.SetActive(true);
@@ -38,11 +35,10 @@ public class GamePlayController : MonoBehaviour {
         }
         bestScore.text = _GameManager.instance._getHighScore().ToString();
     }
-    
-    public void _OnClaim() {
-        WAM.Mint(_score, _ReMenu);
+    public void _ReGamePlay() {
+        SceneManager.LoadScene("GamePlay");
     }
-    private void _ReMenu() {
+    public void _ReMenu() {
         SceneManager.LoadScene("Menu");
     }
 }
