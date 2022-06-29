@@ -51,15 +51,6 @@
           <e p="MenuController" t="Include">
             <e p="PlayButton.cs" t="Include" />
           </e>
-          <e p="NftScript" t="Include">
-            <e p="UIMenuController.cs" t="Include" />
-            <e p="UIModuleLogin.cs" t="Include" />
-            <e p="WAM" t="Include">
-              <e p="WAM.cs" t="Include" />
-              <e p="WAMBalance.cs" t="Include" />
-              <e p="WamMint.cs" t="Include" />
-            </e>
-          </e>
           <e p="PipeController" t="Include">
             <e p="PipeHolder.cs" t="Include" />
           </e>

@@ -59,11 +59,9 @@
     <explicitExcludes>
       <Path>.git</Path>
       <Path>.idea</Path>
-      <Path>Build</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
-      <Path>Test</Path>
       <Path>UnityPackageManager</Path>
       <Path>UserSettings</Path>
       <Path>obj</Path>
